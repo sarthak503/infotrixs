@@ -17,7 +17,7 @@ body {
     background-color: rgb(233, 233, 233);
 }
 .intro {
-    background-image: url("img/giphy.gif");
+    background-image: url("master/img/giphy.gif");
     background-size: cover;
     background-repeat: repeat;
     height: 500px;
